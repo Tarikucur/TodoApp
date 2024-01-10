@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-todoapp-demo" target="17" />
+      <module name="spring-todoapp-demo" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

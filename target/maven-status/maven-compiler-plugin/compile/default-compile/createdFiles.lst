@@ -1,0 +1,11 @@
+com\todotasks\springtodoappdemo\SpringTodoappDemoApplication.class
+com\todotasks\springtodoappdemo\controller\UserController.class
+com\todotasks\springtodoappdemo\model\UserEntity.class
+com\todotasks\springtodoappdemo\repository\UserRepository.class
+com\todotasks\springtodoappdemo\controller\AuthController.class
+com\todotasks\springtodoappdemo\model\Todo.class
+com\todotasks\springtodoappdemo\service\TokenService.class
+com\todotasks\springtodoappdemo\service\AuthService.class
+com\todotasks\springtodoappdemo\controller\Auth\AuthenticationRequestBody.class
+com\todotasks\springtodoappdemo\controller\Auth\AuthenticationResponse.class
+com\todotasks\springtodoappdemo\service\UserService.class

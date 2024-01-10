@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-      uri : mongodb+srv://admin:admin@demodb.hhymaxo.mongodb.net/?retryWrites=true&w=majority
-      database: ProjectDB
+      uri: mongodb+srv://admin:admin@demodb.hhymaxo.mongodb.net/?retryWrites=true&w=majority
+      database: todoapp
