@@ -3,7 +3,10 @@ package com.todotasks.springtodoappdemo.repository;
 import com.todotasks.springtodoappdemo.model.UserEntity;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-public interface UserRepository extends MongoRepository<UserEntity, Long> {
+import java.util.Optional;
+
+public interface UserRepository extends MongoRepository<UserEntity, String> {
     UserEntity findByEmail(String email);
-    UserEntity findById(long id);
+    Optional<UserEntity> findById(String id);
+    boolean existsByEmail(String email);
 }

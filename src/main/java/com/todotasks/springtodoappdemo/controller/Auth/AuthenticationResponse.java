@@ -10,9 +10,9 @@ public class AuthenticationResponse {
     @JsonProperty("email")
     public String email;
     @JsonProperty("userId")
-    public long userId;
+    public String userId;
 
-    public AuthenticationResponse(String token, String name, String email, long userId){
+    public AuthenticationResponse(String token, String name, String email, String userId){
         this.userId = userId;
         this.token = token;
         this.name = name;

@@ -35,4 +35,8 @@ public class AuthService {
             return false;
         }
     }
+
+    public boolean isEmailDuplicate(String email) {
+        return userRepository.existsByEmail(email);
+    }
 }

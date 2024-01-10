@@ -1,26 +1,29 @@
 package com.todotasks.springtodoappdemo.model;
 
 import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.index.Indexed;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection = "users")
 public class UserEntity {
+
     @Id
-    private long id;
+    private String id;
 
     private String name;
 
+    @Indexed(unique = true, background = true)
     private String email;
 
     private String password;
 
     public UserEntity() {}
 
-    public long getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -47,4 +50,5 @@ public class UserEntity {
     public void setPassword(String password) {
         this.password = password;
     }
+
 }

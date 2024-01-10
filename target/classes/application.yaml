@@ -3,3 +3,4 @@ spring:
     mongodb:
       uri: mongodb+srv://admin:admin@demodb.hhymaxo.mongodb.net/?retryWrites=true&w=majority
       database: todoapp
+      auto-index-creation: true
