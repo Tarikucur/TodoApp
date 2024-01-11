@@ -5,39 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30642d37-3d69-4b51-9eba-a16019303272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_impl_0_11_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_jackson_0_11_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_6_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_15_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_15_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-todoapp-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-todoapp-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/SpringTodoappDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/SpringTodoappDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/controller/Auth/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/controller/Auth/AuthenticationResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/model/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/model/UserEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/repository/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/service/AuthService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/service/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/service/TokenService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/SpringTodoappDemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/SpringTodoappDemoApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/controller/Auth/AuthenticationResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/controller/Auth/AuthenticationResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/model/UserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/model/UserEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/service/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/service/AuthService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/service/TokenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/service/TokenService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/todotasks/springtodoappdemo/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-todoapp-demo-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-todoapp-demo-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-todoapp-demo-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-todoapp-demo-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.todotasks.springtodoappdemo.SpringTodoappDemoApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.todotasks.springtodoappdemo.SpringTodoappDemoApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.todotasks.springtodoappdemo.SpringTodoappDemoApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.todotasks.springtodoappdemo.SpringTodoappDemoApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +83,8 @@
       <workItem from="1704887446630" duration="1292000" />
       <workItem from="1704888758682" duration="8711000" />
       <workItem from="1704904206985" duration="101000" />
-      <workItem from="1704904322443" duration="5103000" />
+      <workItem from="1704904322443" duration="5537000" />
+      <workItem from="1704969144491" duration="732000" />
     </task>
     <servers />
   </component>
@@ -135,7 +107,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/todotasks/springtodoappdemo/service/AuthService.java</url>
-          <line>21</line>
+          <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
