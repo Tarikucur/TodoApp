@@ -40,3 +40,11 @@ If you don't have a MongoDB Atlas account, contact me, and I can provide you wit
 
 Feel free to choose the option that best fits your needs!
 
+## Testing the Endpoints With Postman
+
+You can import the collection file named "TodoApp Collection.postman_collection" which is in the root folder.
+
+If you want to pre-defined tests, just run the collection as it is. You can change the values in the request fields as well.
+
+If you need to run the requests manually, you need to create an environment and set it as active for the collection so that the values can be saved.
+
