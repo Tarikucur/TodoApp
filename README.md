@@ -1,5 +1,7 @@
 # TodoApp
 
+This backend service uses BCrypt password encryption with bearer token authentication.
+
 ## Running the Backend Service
 
 To run the backend service, you have two options:
