@@ -1,6 +1,10 @@
 spring:
+  security:
+    user:
+      name: ${SECURITY_USER_NAME:admin}
+      password: ${SECURITY_USER_PASSWORD:adminpassword}
   data:
     mongodb:
-      uri: mongodb+srv://admin:admin@demodb.hhymaxo.mongodb.net/?retryWrites=true&w=majority
+      uri: ${MONGODB_URI}
       database: todoapp
       auto-index-creation: true
